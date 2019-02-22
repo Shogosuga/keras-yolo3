@@ -1,0 +1,3 @@
+
+data/obj/7.jpgdata/obj/24.jpg
+data/obj/2.jpg
