@@ -1,0 +1,104 @@
+model-v3/resize_images/000.png 252,333,358,390,0
+model-v3/resize_images/001.jpg 130,187,287,305,0
+model-v3/resize_images/002.jpg 185,214,307,342,0
+model-v3/resize_images/003.png 97,237,169,323,0 204,242,302,359,0
+model-v3/resize_images/004.jpg 104,165,231,297,0
+model-v3/resize_images/005.png 126,163,187,224,0 253,248,314,296,0
+model-v3/resize_images/006.png 158,283,280,360,0
+model-v3/resize_images/007.png 177,238,261,310,0
+model-v3/resize_images/008.png 55,267,146,329,0 233,302,329,369,0
+model-v3/resize_images/009.png 64,299,211,414,0
+model-v3/resize_images/010.jpg 20,15,346,365,0
+model-v3/resize_images/011.png 263,174,404,326,0 91,169,192,271,0
+model-v3/resize_images/012.jpg 77,195,209,336,0
+model-v3/resize_images/013.png 178,221,364,363,0
+model-v3/resize_images/014.jpg 267,260,366,366,0
+model-v3/resize_images/015.jpg 152,251,301,410,0
+model-v3/resize_images/016.jpg 269,196,405,334,0
+model-v3/resize_images/017.png 146,228,255,300,0
+model-v3/resize_images/018.png 4,111,137,251,0
+model-v3/resize_images/019.jpg 107,104,314,297,0
+model-v3/resize_images/020.png 204,169,320,288,0
+model-v3/resize_images/021.png 168,190,253,303,0
+model-v3/resize_images/022.png 125,295,262,407,0
+model-v3/resize_images/023.jpeg 122,194,231,276,0
+model-v3/resize_images/024.png 182,309,240,367,0
+model-v3/resize_images/025.png 109,311,190,400,0 256,280,353,391,0
+model-v3/resize_images/026.png 112,226,229,350,0
+model-v3/resize_images/027.png 68,199,157,289,0
+model-v3/resize_images/028.jpg 100,220,150,262,0 42,318,89,359,0 157,326,205,364,0 178,53,353,282,0
+model-v3/resize_images/029.jpg 150,219,264,336,0
+model-v3/resize_images/030.png 175,277,285,349,0
+model-v3/resize_images/031.png 114,177,227,297,0
+model-v3/resize_images/032.png 116,265,246,383,0
+model-v3/resize_images/033.png 111,143,300,310,0
+model-v3/resize_images/034.jpg 94,241,186,334,0 265,239,357,330,0
+model-v3/resize_images/035.jpg 169,247,295,354,0
+model-v3/resize_images/036.png 137,253,271,372,0
+model-v3/resize_images/037.png 86,200,230,374,0
+model-v3/resize_images/038.png 209,264,306,344,0
+model-v3/resize_images/039.jpg 128,167,258,314,0
+model-v3/resize_images/040.jpg 35,127,296,354,0
+model-v3/resize_images/041.jpg 125,150,258,273,0
+model-v3/resize_images/042.png 71,221,143,286,0 266,222,340,288,0
+model-v3/resize_images/043.jpg 176,192,286,291,0
+model-v3/resize_images/044.png 124,256,264,389,0
+model-v3/resize_images/045.png 180,160,263,240,0
+model-v3/resize_images/046.png 55,208,158,310,0 256,267,350,360,0
+model-v3/resize_images/047.jpg 149,224,256,338,0
+model-v3/resize_images/048.png 233,144,310,212,0
+model-v3/resize_images/049.png 102,128,147,172,0
+model-v3/resize_images/050.jpg 221,243,333,341,0
+model-v3/resize_images/051.png 98,51,288,250,0
+model-v3/resize_images/052.png 191,231,271,321,0
+model-v3/resize_images/053.jpg 90,146,208,291,0
+model-v3/resize_images/054.png 105,283,167,337,0 248,284,307,336,0
+model-v3/resize_images/055.jpg 173,218,266,311,0
+model-v3/resize_images/056.png 249,104,327,166,0
+model-v3/resize_images/057.png 129,264,263,369,0
+model-v3/resize_images/058.png 155,231,282,327,0
+model-v3/resize_images/059.jpg 151,219,265,334,0
+model-v3/resize_images/060.jpg 147,201,250,311,0
+model-v3/resize_images/061.png 97,209,176,261,0
+model-v3/resize_images/062.png 188,234,312,329,0
+model-v3/resize_images/063.png 107,107,308,309,0
+model-v3/resize_images/064.jpg 231,226,350,335,0
+model-v3/resize_images/065.jpg 138,211,251,324,0
+model-v3/resize_images/066.png 194,183,306,297,0
+model-v3/resize_images/067.png 84,246,137,300,0 187,248,239,302,0
+model-v3/resize_images/068.png 161,212,259,312,0
+model-v3/resize_images/069.png 34,99,153,187,0 237,60,337,142,0
+model-v3/resize_images/070.png 78,149,174,245,0 209,189,291,273,0
+model-v3/resize_images/071.jpg 143,179,282,307,0
+model-v3/resize_images/072.png 165,186,257,258,0
+model-v3/resize_images/073.jpg 154,209,255,315,0
+model-v3/resize_images/074.png 98,51,259,186,0 242,290,297,352,0
+model-v3/resize_images/075.png 162,214,258,313,0
+model-v3/resize_images/076.png 210,293,304,391,0
+model-v3/resize_images/077.jpeg 144,241,271,341,0
+model-v3/resize_images/078.png 31,225,139,326,0
+model-v3/resize_images/079.png 156,231,295,357,0
+model-v3/resize_images/080.jpg 95,226,251,360,0
+model-v3/resize_images/081.jpg 5,241,66,308,0 128,223,198,300,0 260,205,334,287,0
+model-v3/resize_images/082.png 196,254,262,322,0
+model-v3/resize_images/083.jpg 133,228,259,342,0
+model-v3/resize_images/084.png 185,256,247,318,0
+model-v3/resize_images/085.jpg 191,184,284,270,0 0,273,70,359,0
+model-v3/resize_images/086.jpg 156,223,289,352,0
+model-v3/resize_images/087.png 90,318,200,405,0 270,187,380,293,0
+model-v3/resize_images/088.jpg 158,236,275,338,0
+model-v3/resize_images/089.png 32,159,103,228,0 123,126,200,179,0
+model-v3/resize_images/090.jpg 97,213,215,340,0
+model-v3/resize_images/091.jpg 139,265,205,329,0
+model-v3/resize_images/092.png 94,276,236,400,0
+model-v3/resize_images/093.png 74,243,168,316,0 241,229,330,307,0
+model-v3/resize_images/094.png 61,165,156,250,0 212,234,317,325,0
+model-v3/resize_images/095.png 81,125,118,182,0 184,199,240,267,0
+model-v3/resize_images/096.jpg 152,236,243,318,0
+model-v3/resize_images/097.png 32,270,110,357,0
+model-v3/resize_images/098.png 246,230,340,331,0
+model-v3/resize_images/099.png 96,201,205,305,0
+model-v3/resize_images/100.png 142,289,290,413,0
+model-v3/resize_images/101.jpg 140,218,256,340,0
+model-v3/resize_images/102.png 111,266,179,328,0 259,205,317,263,0
+model-v3/resize_images/103.png 127,254,195,326,0 249,195,317,266,0
